@@ -2,7 +2,7 @@ Vex Odometry -- VODOM
 
 REQUIREMENTS:
 -Windows 10 PC (MacOS is untested but should work)
--VEXcode V5 Text v1.0.4
+-VEXcode V5 Text v1.0.4+
 
 1. Add include files here:
 [VEX Robotics directory]\VEXcode V5 Text\sdk\vexv5\include;
