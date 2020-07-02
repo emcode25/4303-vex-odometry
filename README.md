@@ -16,6 +16,7 @@
 
 After you create a project, you will need to copy the "vex"
 folder to your project to compile correctly. 
+
 --------------------------------------------------------------
 Alternatively, if you'd like to edit the files yourself, edit 
 the "mkenv.mk" file and copy-paste this line where it says 
